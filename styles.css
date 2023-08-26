@@ -65,9 +65,7 @@ div {
    
     
 }
-.input:hover{
-    border: 1px  solid rgb(0, 102, 255);
-}
+
 button{
     background: #0e95d3;
     border: none;
